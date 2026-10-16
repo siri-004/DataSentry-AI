@@ -1,0 +1,32 @@
+transaction_id,customer_id,customer_name,category,quantity,unit_price,total_amount,order_date,status
+TXN-1001,CUST-001,Alice Smith,Electronics,2,150.00,300.00,2024-01-15,Completed
+TXN-1002,CUST-002,Bob Jones,Clothing,1,45.50,45.50,2024-01-16,Completed
+TXN-1003,,Charlie Brown,Electronics,3,80.00,240.00,2024-01-17,Pending
+TXN-1004,CUST-004,Diana Prince, electronics,1,120.00,120.00,2024-01-18,Completed
+TXN-1005,CUST-005,Evan Wright,Home & Kitchen,-2,35.00,-70.00,2024-01-19,Completed
+TXN-1006,CUST-006,Fiona Gallagher,Clothing,4,25.00,100.00,2024-02-31,Processing
+TXN-1007,CUST-007,George Clark,ELECTRONICS,1,950000.00,950000.00,2024-01-20,Completed
+TXN-1008,CUST-008,Hannah Abbott,Books,2,15.00,30.00,2024-01-21,Completed
+TXN-1009,CUST-009,Ian Malcolm,Home & Kitchen,1,60.00,60.00,2024-01-22,Completed
+TXN-1010,CUST-010,Julia Roberts,clothing ,5,30.00,150.00,not_a_date,Pending
+TXN-1011,CUST-001,Alice Smith,Electronics,2,150.00,300.00,2024-01-15,Completed
+TXN-1012,CUST-012,Kevin Bacon,Books,1,-12.50,-12.50,2024-01-23,Cancelled
+TXN-1013,,Laura Croft,Electronics,1,200.00,200.00,2024-01-24,Completed
+TXN-1014,CUST-014,Michael Scott,Office Supplies,10,5.00,50.00,2024-01-25,Completed
+TXN-1015,CUST-015,Nancy Wheeler,Clothing,2,55.00,110.00,2024-01-26,Completed
+TXN-1016,CUST-016,Oscar Martinez,Electronics,1,320.00,320.00,2024-01-27,Completed
+TXN-1017,CUST-017,Pam Beesly,Office Supplies,3,12.00,36.00,2099-12-31,Pending
+TXN-1018,CUST-018,Quinn Fabray,Books,1,22.00,22.00,2024-01-28,Completed
+TXN-1019,CUST-019,Ryan Howard,Electronics,2,75.00,150.00,2024-01-29,Completed
+TXN-1020,CUST-020,Sarah Connor,Home & Kitchen,1,85.00,85.00,2024-01-30,Completed
+TXN-1001,CUST-001,Alice Smith,Electronics,2,150.00,300.00,2024-01-15,Completed
+TXN-1021,CUST-021,Thomas Shelby,Clothing,3,90.00,270.00,2024-02-01,Completed
+TXN-1022,CUST-022,Uma Thurman,Books,2,18.00,36.00,2024-02-02,Completed
+TXN-1023,CUST-023,Victor Stone,ELECTRONICS,1,500.00,500.00,2024-02-03,Completed
+TXN-1024,CUST-024,Wendy Darling,Home & Kitchen,4,40.00,160.00,2024-02-04,Completed
+TXN-1025,CUST-025,Xander Cage,Sports,2,65.00,130.00,2024-02-05,Completed
+TXN-1026,CUST-026,Ygritte Snow,Clothing,1,35.00,35.00,2024-02-06,Completed
+TXN-1027,CUST-027,Zack Morris,Electronics,1,140.00,140.00,2024-02-07,Completed
+TXN-1028,CUST-028,Arthur Dent,Books,3,14.00,42.00,2024-02-08,Completed
+TXN-1029,CUST-029,Bruce Wayne,Electronics,1,800.00,800.00,2024-02-09,Completed
+TXN-1030,CUST-002,Bob Jones,Clothing,1,45.50,45.50,2024-01-16,Pending
